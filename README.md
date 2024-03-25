@@ -12,8 +12,11 @@ The provided code implements three tasks:
 ## Serial Output
 
 The Serial Monitor will display the following output:
+
 Received data:     1    2    3    4    5    6    7    8    9    10    999
+
 Received data:     999
+
 Received data:     999
 Received data:     999
 Received data:     999
