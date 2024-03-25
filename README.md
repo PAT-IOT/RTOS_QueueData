@@ -12,21 +12,12 @@ The provided code implements three tasks:
 ## Serial Output
 
 The Serial Monitor will display the following output:
-
 Received data:     1    2    3    4    5    6    7    8    9    10    999
-__________________________________________________________
 Received data:     999
-__________________________________________________________
 Received data:     999
-__________________________________________________________
 Received data:     999
-__________________________________________________________
 Received data:     999
-__________________________________________________________
 Received data:     11    12    13    14    15    16    17    18    19    20    999
-__________________________________________________________
-Received data:     999
-__________________________________________________________
 Received data:     999
 ....
 
@@ -51,6 +42,3 @@ Received data:     999
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
-## License
-
-This code is licensed under the [MIT License](LICENSE).
