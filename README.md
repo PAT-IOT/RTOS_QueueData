@@ -52,4 +52,5 @@ Contributions are welcome! Please feel free to open issues or submit pull reques
 
 ## Refrence
 https://www.freertos.org/Documentation/RTOS_book.html
+https://github.com/FreeRTOS/FreeRTOS-Kernel-Book/blob/main/ch05.md#523-blocking-on-queue-reads
 
