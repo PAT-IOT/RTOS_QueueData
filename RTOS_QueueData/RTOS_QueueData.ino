@@ -6,7 +6,6 @@
 QueueHandle_t dataQueue;
 int dataToSend;
 int receivedData;
-
 //---------------------------------------------------------------------------------------------------------
 void task_core0_IncrementalData(void *pvParameters) {
   int IncrementalData = 0;
